@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Temperature</string>
+    <string name="btn_convert">Convert Lah Bro</string>
+    <string name="nama">Masukkan Nama</string>
+</resources>
